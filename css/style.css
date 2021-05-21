@@ -18,7 +18,7 @@ header {
 }
 
 
-@media (max-width: 576px) {
+
     .main-visual {
         background-size: contain;
         background: no-repeat center center;
@@ -50,7 +50,7 @@ header {
         text-align: center;
         padding-bottom: 300px;
     }
-}
+
 
 .logo {
     height: 60px;
