@@ -54,7 +54,7 @@ body {
 .main-visual {
   background-size: contain;
   background: no-repeat center center;
-  background-image: url(../img/hamburg.jpg);
+  background-image: url(img/hamburg.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -462,19 +462,19 @@ h5 {
 
 @keyframes slideshow {
   0% {
-    background-image: url(../img/hamburg.jpg);
+    background-image: url(img/hamburg.jpg);
     width: 100vw;
   }
   25% {
-    background-image: url(../img/course-menu.jpg);
+    background-image: url(img/course-menu.jpg);
     width: 100vw;
   }
   50% {
-    background-image: url(../img/cake.jpg);
+    background-image: url(img/cake.jpg);
     width: 100vw;
   }
   100% {
-    background-image: url(../img/board.jpg);
+    background-image: url(img/board.jpg);
     width: 100vw;
   }
 }
